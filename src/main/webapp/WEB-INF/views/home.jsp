@@ -6,7 +6,7 @@
 <html>
 <head>
 
-<img alt="my image" src='<c:url value="/resources/image/Certificate_RKT.png"/>'/>
+<!--<img alt="my image" src='<c:url value="/resources/image/Certificate_RKT.png"/>'/>  -->
 
 <link href="<c:url value="/resources/css/style.css"/> ">
 
